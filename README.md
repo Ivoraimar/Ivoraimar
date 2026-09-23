@@ -1,11 +1,7 @@
 # Hi, I'm Ivo 👋
 
-I'm a software engineer interested in full-stack development, cloud and edge computing, distributed systems, and building useful software.
+I'm a software engineer interested in distributed systems, cloud and edge computing, and building useful software.
 
-I contribute to [Oakestra](https://www.oakestra.io/), an open-source orchestration framework for edge computing, and recently completed my bachelor's thesis on live migration strategies at the edge.
+I recently worked at the Technical University of Munich on [Oakestra](https://www.oakestra.io/), an open-source orchestration framework for distributed edge computing, and completed my bachelor's thesis on [live migration strategies at the edge](https://ivoraimar.github.io/documents/live-migration-thesis.pdf).
 
-You can learn more about my work and projects on [my portfolio](https://ivoraimar.github.io/).
-
-Thanks for stopping by!
-
-
+You can learn more about my work on [my portfolio](https://ivoraimar.github.io/).
